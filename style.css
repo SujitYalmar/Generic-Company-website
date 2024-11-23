@@ -177,3 +177,32 @@ ul{
     height: 10%;
     flex-basis: 10px;
 }
+
+/* Features Section  */
+
+.features-section{
+    background-image: url(assets/asset\ 34.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 4rem;
+}
+
+.feaures-header .secondaryBtn{
+    padding: 0.5rem 1.5rem;
+}
+
+.features-area{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 2rem;
+    margin-top: 1rem;
+}
+
+.features-card{
+    max-width: 30%;
+}
+
+.features-card img{
+    width: 60px;
+}

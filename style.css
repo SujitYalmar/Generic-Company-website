@@ -280,4 +280,24 @@ ul{
     background: linear-gradient(rgb(0,0,0,0.3),rgb(0,0,0,0.75)), url(assets/asset\ 37.jpeg);
     background-size: cover;
 }
+
+.examples-card:nth-child(3){
+    background: linear-gradient(rgb(0,0,0,0.3),rgb(0,0,0,0.75)), url(assets/asset\ 38.jpeg);
+    background-size: cover;
+}
+.examples-card:nth-child(4){
+    background: linear-gradient(rgb(0,0,0,0.3),rgb(0,0,0,0.75)), url(assets/asset\ 39.jpeg);
+    background-size: cover;
+}
+
+
+.examples-card .card-text{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    /* align-items: flex-end; */
+}
  

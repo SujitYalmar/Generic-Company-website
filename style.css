@@ -252,3 +252,22 @@ ul{
    align-items: center;
    justify-content: center;
 }
+
+
+/* Example Section */
+
+.examples{
+    justify-content: space-between;
+ }
+ 
+ .examples-card{
+     background: black;
+     background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.75)), url(assets/asset\ 36.jpeg);
+     background-size: cover;
+     /* width: 400px; */
+     /* height: 400px; */
+     width: 23%;
+     position: relative;
+     min-height: 300px;
+ }
+ 

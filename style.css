@@ -270,4 +270,14 @@ ul{
      position: relative;
      min-height: 300px;
  }
+ .examples-card:hover{
+    /* box-shadow : top&btm left&right color */
+    box-shadow: 0 0 10px #888;
+    transition: 0.2s ease-out;
+}
+
+.examples-card:nth-child(2){
+    background: linear-gradient(rgb(0,0,0,0.3),rgb(0,0,0,0.75)), url(assets/asset\ 37.jpeg);
+    background-size: cover;
+}
  

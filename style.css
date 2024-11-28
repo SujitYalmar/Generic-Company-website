@@ -337,3 +337,15 @@ ul{
     gap: 0.6rem;
 }
 
+/* subfooter */
+
+.subfooter{
+    background-color: #b9cde4;
+    padding: var(--padding-inline-section);
+}
+
+.subfooter-section{
+    justify-content: center;
+    gap: 3rem;
+}
+
